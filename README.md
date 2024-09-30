@@ -42,4 +42,10 @@ younes Amerga
 
 1. Clonez ce dépôt dans Android Studio :
    ```bash
-   git clone https://github.com/votre_nom_utilisateur/quiz-android-app.git
+   git clone https://github.com/Younessamg/Mobile.tp1.ex3.git
+
+
+
+
+[Screen_recording_20240930_230508.webm](https://github.com/user-attachments/assets/0e1b5236-a13a-46d0-8856-fe1ad5ddd48b)
+
